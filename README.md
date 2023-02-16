@@ -7,7 +7,7 @@ Write a function that finds the most frequent character in a string (case insens
 
   * JS
 
-[code](https://github.com/boryskerekesha/test_1/blob/main/scripts/maxFrequentChar.js)
+* [code](https://github.com/boryskerekesha/test_1/blob/main/scripts/maxFrequentChar.js)
 
 How my function works?
 
@@ -30,9 +30,9 @@ Disable “Set” button if the field value is empty.
   * Sass, css
   * Html
 
-[link](https://boryskerekesha.github.io/test_1/)
-[code_js](https://github.com/boryskerekesha/test_1/blob/main/scripts/form.js)
-[index](https://github.com/boryskerekesha/test_1/blob/main/index.html)
+* [link](https://boryskerekesha.github.io/test_1/)
+* [code_js](https://github.com/boryskerekesha/test_1/blob/main/scripts/form.js)
+* [index](https://github.com/boryskerekesha/test_1/blob/main/index.html)
 
 How my form works?
 
@@ -62,7 +62,7 @@ Object example:
 
   * JS
 
-[code_js](https://github.com/boryskerekesha/test_1/blob/main/scripts/queryParams.js)
+* [code_js](https://github.com/boryskerekesha/test_1/blob/main/scripts/queryParams.js)
 
 How my function works?
 
@@ -75,6 +75,6 @@ How my function works?
 
   ### Task 3 ###
 
-  [link_readme](https://github.com/boryskerekesha/render_list)
-  [link](https://boryskerekesha.github.io/render_list/)
-  [code_js](https://github.com/boryskerekesha/render_list/blob/main/scripts/script.js)
+  * [link_readme](https://github.com/boryskerekesha/render_list)
+  * [link](https://boryskerekesha.github.io/render_list/)
+  * [code_js](https://github.com/boryskerekesha/render_list/blob/main/scripts/script.js)
