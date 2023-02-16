@@ -1,0 +1,39 @@
+.body {
+  margin: 0;
+}
+.body__form {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.body__new-parag {
+  margin: 20px auto;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+.body__new-parag--red {
+  background-color: red;
+}
+.body__new-parag--green {
+  background-color: green;
+}
+.body__params {
+  border: 2px solid;
+}
+
+.form {
+  display: block;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 20px;
+  border: solid 2px;
+}
+
+/*# sourceMappingURL=style.css.map */

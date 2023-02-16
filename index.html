@@ -1,0 +1,43 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+      <link rel="stylesheet" href="./styles/style.css">
+      <script src="./scripts/maxFrequentChar.js" defer></script>
+      <script src="./scripts/form.js" defer></script>
+      <script src="./scripts/queryParams.js" defer></script>
+
+    </head>
+    <body class="body">
+      <div class="body__form">
+        <form action="/" method="get" class="form" hidden>
+          <label for="myInput" class="form__input-label">
+            Give me any numbers:
+          </label>
+          <input
+            type="number"
+            id="myInput"
+            placeholder="Please, enter a number"
+            class="form__input"
+            >
+          <button
+            type="submit"
+            class="form__button form__button--set"
+            id="setButton"
+          >
+            Set
+          </button>
+          <button
+            type="button"
+            class="form__button form__button--clear"
+            id="clearButton"
+          >
+            Clear
+          </button>
+        </form>
+      </div>
+    </body>
+  </html>

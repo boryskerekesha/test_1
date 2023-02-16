@@ -1,0 +1,57 @@
+.body {
+  margin: 0;
+
+  &__form {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  &__new-parag {
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    transition: background-color 0.3s;
+
+    &--red {
+      background-color: red;
+    }
+
+    &--green {
+      background-color: green;
+    }
+  }
+
+  &__params {
+    border: 2px solid;
+  }
+}
+
+.form {
+  display: block;
+  margin: 0 auto; 
+  padding: 40px;
+  border-radius: 20px;
+  border: solid 2px;
+
+  &__input-label {
+  }
+
+  &__input {
+  }
+
+  &__button {
+  }
+
+  &__button--set {
+  }
+
+  &__button--clear {
+  }
+}
