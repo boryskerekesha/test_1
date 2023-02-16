@@ -7,6 +7,8 @@ Write a function that finds the most frequent character in a string (case insens
 
   * JS
 
+[code](https://github.com/boryskerekesha/test_1/blob/main/scripts/maxFrequentChar.js)
+
 How my function works?
 
   * Checks the validity of the string and provides a corresponding message.
@@ -27,6 +29,10 @@ Disable “Set” button if the field value is empty.
   * JS
   * Sass, css
   * Html
+
+[link](https://boryskerekesha.github.io/test_1/)
+[code_js](https://github.com/boryskerekesha/test_1/blob/main/scripts/form.js)
+[index](https://github.com/boryskerekesha/test_1/blob/main/index.html)
 
 How my form works?
 
@@ -56,6 +62,8 @@ Object example:
 
   * JS
 
+[code_js](https://github.com/boryskerekesha/test_1/blob/main/scripts/queryParams.js)
+
 How my function works?
 
   * Checks the validity of URL and and provides a corresponding message.
@@ -66,3 +74,7 @@ How my function works?
   ***
 
   ### Task 3 ###
+
+  [link_readme](https://github.com/boryskerekesha/render_list)
+  [link](https://boryskerekesha.github.io/render_list/)
+  [code_js](https://github.com/boryskerekesha/render_list/blob/main/scripts/script.js)
